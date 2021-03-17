@@ -9,11 +9,3 @@ git clone https://github.com/roza-rio/openbullet2-installer
 cd openbullet2-installer
 sudo ./install.sh
 ```
-
-## Or
-
-#### via Curl
-```shell
-sudo -s
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/roza-rio/openbullet2-installer/master/main.sh)"
-```
