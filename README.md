@@ -15,5 +15,5 @@ sudo ./install.sh
 #### via Curl
 ```shell
 sudo -s
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/roza-rio/openbullet2-installer/master/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/roza-rio/openbullet2-installer/master/main.sh)"
 ```
