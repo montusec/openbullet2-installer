@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/openbullet2
+dotnet /opt/openbullet2/OpenBullet2.dll
