@@ -9,3 +9,14 @@ git clone https://github.com/roza-rio/openbullet2-installer
 cd openbullet2-installer
 sudo bash install.sh
 ```
+
+### Now you can start OpenBullet2 By enter ```openbullet``` command.
+
+# Tested in:
+  - Kali Rolling
+  - Ubuntu 18.04
+  - Ubuntu 20.04
+  - Debian 9.0
+  - Debian 10.0
+  # It may run all linux based os.
+ 
