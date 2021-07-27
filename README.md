@@ -6,7 +6,7 @@ OpenBullet2 is installed by running one of the following commands in your termin
 
 ```shell
 
- unzip openbullet2-installer-master.zip 
+unzip openbullet2-installer-master.zip 
 cd openbullet2-installer-master
 sudo bash install.sh 
 cd /opt/openbullet2 
