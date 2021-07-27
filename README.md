@@ -6,11 +6,12 @@ OpenBullet2 is installed by running one of the following commands in your termin
 
 ```shell
 
-cd openbullet2-installer&
-sudo bash install.sh &
-cd /opt/openbullet2 &
-dotnet ./Updater.dll &
-dotnet ./OpenBullet2.dll &
+ unzip openbullet2-installer-master.zip 
+cd openbullet2-installer-master
+sudo bash install.sh 
+cd /opt/openbullet2 
+dotnet ./Updater.dll 
+dotnet ./OpenBullet2.dll 
 
 ```
 
